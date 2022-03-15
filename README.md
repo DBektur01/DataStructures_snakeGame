@@ -19,6 +19,8 @@
 
 Фигма: https://www.figma.com/file/V2CaVnsqTOkwbBLzuINC46/Snake?node-id=0%3A1
 
+Трелло: https://trello.com/b/uE3K8nOR/dbektur
+
 Описание: простая игра про змей
 
 Скриншоты:
